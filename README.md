@@ -1,4 +1,4 @@
-### Hey, I'm Pavan 👋
+### Hey, I'm Pavan 
 
 AI/ML Student based in Bengaluru.
 Building local LLM deployments, data pipelines, and high-performance systems.
