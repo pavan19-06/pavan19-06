@@ -1,6 +1,7 @@
 ### Hey, I'm Pavan 
 
 AI/ML Student @ Jain University Bengaluru.
+
 Building local LLM deployments, data pipelines, and high-performance systems.
 
 *Currently messing around with consumer GPUs and Python web scraping.*
